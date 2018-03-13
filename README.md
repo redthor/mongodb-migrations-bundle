@@ -17,8 +17,8 @@ Add the following to your composer.json file:
 ```json
 {
     "require": {
-        "doesntmattr/mongodb-migrations": "~1.0@stable",
-        "doesntmattr/mongodb-migrations-bundle": "~1.0@stable"
+        "doesntmattr/mongodb-migrations": "^1.2.2",
+        "doesntmattr/mongodb-migrations-bundle": "^1.1"
     }
 }
 ```
